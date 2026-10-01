@@ -52,18 +52,18 @@
 ### 🤖 AI Powered Resume Scorer
 AI-based resume analysis tool that evaluates resumes and provides ATS-oriented feedback.
 
-🔗 [Live Demo](YOUR_LINK)  
-🔗 [GitHub](YOUR_GITHUB_LINK)
+🔗 [Live Demo](https://resume-ats-ruddy.vercel.app/)  
+🔗 [GitHub](https://github.com/learndiscipline234-glitch/Resume-ATS)
 
 ### 🌾 KisanSetu
 A platform designed to provide technology-driven solutions for farmers.
 
-🔗 [GitHub](YOUR_GITHUB_LINK)
+🔗 [GitHub](https://github.com/learndiscipline234-glitch/kisansetu)
 
 ### 🏠 Bangalore House Price Predictor
 Machine learning project that predicts Bangalore house prices using regression techniques.
 
-🔗 [GitHub](YOUR_GITHUB_LINK)
+🔗 [GitHub](https://github.com/learndiscipline234-glitch/House-predictor)
 
 ---
 
@@ -97,9 +97,9 @@ Machine learning project that predicts Bangalore house prices using regression t
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: YOUR_LINK
-- 🐦 X: YOUR_LINK
-- 💻 GitHub: YOUR_LINK
+- 💼 LinkedIn: https://www.linkedin.com/in/ayush-jha-84b37631a/
+- 🐦 X: https://x.com/Ayushc15e
+- 💻 GitHub: https://github.com/learndiscipline234-glitch
 
 ---
 
