@@ -1,107 +1,171 @@
-<h1 align="center">Hi 👋, I'm Ayush Jha</h1>
+::: {align="center"}
+`<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Ayush%20Jha&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20DSA&descAlignY=58&descSize=18" width="100%" alt="Ayush Jha animated profile banner"/>`{=html}
 
-<h3 align="center">
-B.Tech ECE Student | Machine Learning Enthusiast | DSA & Software Development
-</h3>
+`<a href="https://github.com/learndiscipline234-glitch">`{=html}
+`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+AI%2FML+Projects;Exploring+NLP+and+Deep+Learning;Solving+DSA+Problems;Learn+%E2%86%92+Build+%E2%86%92+Improve" alt="Animated typing introduction"/>`{=html}
+`</a>`{=html}
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Machine+Learning+%26+Deep+Learning;Data+Structures+%26+Competitive+Programming;Building+Real+World+AI+Projects+🚀" />
+```{=html}
+<p>
+```
+`<img src="https://komarev.com/ghpvc/?username=learndiscipline234-glitch&style=for-the-badge&color=blueviolet" alt="Profile views"/>`{=html}
+`<img src="https://img.shields.io/github/followers/learndiscipline234-glitch?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers"/>`{=html}
+`<img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-00C7B7?style=for-the-badge" alt="Current focus"/>`{=html}
+```{=html}
 </p>
+```
+:::
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=learndiscipline234-glitch&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/learndiscipline234-glitch?label=Followers&style=social" />
-</p>
+------------------------------------------------------------------------
 
----
+## 🧑‍💻 About Me
 
-## 👨‍💻 About Me
-
+``` python
 class AyushJha:
+    def __init__(self):
+        self.education = "B.Tech, Electronics & Communication Engineering"
+        self.university = "Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur"
+        self.location = "New Delhi, India"
+        self.interests = [
+            "Machine Learning", "Deep Learning", "NLP",
+            "Generative AI", "Data Structures & Algorithms"
+        ]
+        self.mindset = "Learn • Build • Experiment • Improve"
+```
 
-    education = "B.Tech in Electronics & Communication Engineering"
-    focus = "Machine Learning | Deep Learning | DSA"
-    interests = "AI | NLP | Generative AI | Backend Development"
-    mindset = "Learn → Build → Optimize → Repeat 🚀"
-🔭 Currently exploring Machine Learning, Deep Learning & Generative AI
-🧠 Practicing Data Structures & Algorithms and Competitive Programming
-🤖 Building real-world AI/ML applications
-🌐 Developing and deploying applications using FastAPI, REST APIs & modern web technologies
-📚 Currently exploring NLP, LangChain & LangGraph
-🚀 Interested in AI research, intelligent systems & scalable software
-🧠 Core Domains
-🤖 Machine Learning & AI
-<p> <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" /> <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge" /> <img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge" /> <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge" /> <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white" /> </p>
-🧩 Data Structures & Algorithms
-<p> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge" /> <img src="https://img.shields.io/badge/Competitive_Programming-8A2BE2?style=for-the-badge" /> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /> </p>
-⚙️ Backend & Deployment
-<p> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </p>
-💻 Programming & Tools
-<p> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </p>
-🚀 Featured Projects
-🧠 Mental Health Predictor
+-   🎓 B.Tech student at **MMMUT, Gorakhpur**.
+-   📍 Currently based in **New Delhi, India**.
+-   🤖 Building practical machine learning and deep learning
+    applications.
+-   🧠 Practicing DSA and competitive programming.
+-   🔬 Interested in NLP, AI research, and intelligent systems.
+-   🌱 Exploring Generative AI tools and frameworks.
 
-Machine Learning application that predicts a mental health score based on student lifestyle and social-media-related factors.
+## ⚡ Tech Stack
 
-Tech Stack:
-Python Scikit-learn Pandas FastAPI HTML CSS JavaScript
+::: {align="center"}
+### AI / Machine Learning
 
-🤖 Machine Learning prediction pipeline
-⚡ FastAPI REST API
-🌐 Interactive web interface
-🚀 Backend deployed on Render
-▲ Frontend deployed on Vercel
-📄 AI Resume Scorer
+`<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" alt="Python, TensorFlow and OpenCV icons"/>`{=html}
 
-AI-powered resume analysis system designed to evaluate resumes and provide ATS-oriented feedback.
+`<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>`{=html}
+`<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>`{=html}
+`<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>`{=html}
+`<img src="https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge" alt="NLP"/>`{=html}
+`<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge" alt="Deep Learning"/>`{=html}
 
-Tech Stack:
-Python NLP Machine Learning FastAPI JavaScript
+### Languages, Backend & Tools
 
-📊 Resume analysis
-🎯 ATS-oriented scoring
-📝 Resume improvement suggestions
-🌐 Web-based interface
+`<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,fastapi,flask,git,github,vscode" alt="Programming languages and developer tools"/>`{=html}
 
-🔗 Live: https://resume-ats-ruddy.vercel.app/
+`<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" alt="REST APIs"/>`{=html}
+`<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>`{=html}
+`<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>`{=html}
+:::
 
-🌾 KisanSetu
+------------------------------------------------------------------------
 
-A technology platform designed to provide digital solutions for farmers.
+## 🚀 Featured Projects
 
-Tech Stack:
-HTML CSS JavaScript Python FastAPI
+::: {align="center"}
+`<a href="https://github.com/learndiscipline234-glitch/emotion">`{=html}
+`<img src="https://github-readme-stats.vercel.app/api/pin/?username=learndiscipline234-glitch&repo=emotion&theme=tokyonight&hide_border=true" alt="Emotion project card"/>`{=html}
+`</a>`{=html}
+`<a href="https://github.com/learndiscipline234-glitch/Resume-ATS">`{=html}
+`<img src="https://github-readme-stats.vercel.app/api/pin/?username=learndiscipline234-glitch&repo=Resume-ATS&theme=tokyonight&hide_border=true" alt="Resume ATS project card"/>`{=html}
+`</a>`{=html}
+`<a href="https://github.com/learndiscipline234-glitch/mental_health">`{=html}
+`<img src="https://github-readme-stats.vercel.app/api/pin/?username=learndiscipline234-glitch&repo=mental_health&theme=tokyonight&hide_border=true" alt="Mental health project card"/>`{=html}
+`</a>`{=html}
+:::
 
-🌱 Farmer-focused digital platform
-🔗 Frontend + backend architecture
-🌐 Web-based application
-🚀 Deployment-ready architecture
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=learndiscipline234-glitch&show_icons=true&theme=github_dark&hide_border=true" />
+### 🧠 [Emotion Classification with Deep Learning](https://github.com/learndiscipline234-glitch/emotion)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=learndiscipline234-glitch&layout=compact&theme=github_dark&hide_border=true" />
+NLP project that classifies text into **sadness, joy, love, anger, fear,
+and surprise**. Tested RNN, LSTM, GRU, and BiGRU models; the BiGRU
+experiment achieved approximately **97% accuracy**.
 
-</p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=learndiscipline234-glitch&theme=github_dark&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=learndiscipline234-glitch&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" /> </p>
-🏆 Coding Journey
-💻 300+ DSA problems solved
-🧩 Regularly practicing LeetCode & CodeChef
-🧠 Strong focus on Graphs, Dynamic Programming & Problem Solving
-🤖 Completed Machine Learning & Deep Learning
-📚 Exploring NLP, LangChain & LangGraph
-🚀 Building and deploying real-world AI/ML projects
-🌐 Connect With Me
-<p align="center"> <a href="https://github.com/learndiscipline234-glitch"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
-🐍 Contribution Snake
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/learndiscipline234-glitch/learndiscipline234-glitch/output/github-contribution-grid-snake-dark.svg" />
+**Tech:** Python · NLP · TensorFlow/Keras · BiGRU
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/learndiscipline234-glitch/learndiscipline234-glitch/output/github-contribution-grid-snake.svg" />
+### 📄 [AI Resume ATS Scorer](https://github.com/learndiscipline234-glitch/Resume-ATS)
 
-<img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/learndiscipline234-glitch/learndiscipline234-glitch/output/github-contribution-grid-snake.svg" />
-</picture>
+Web application that analyzes resumes and provides ATS-oriented scoring
+and improvement feedback.
 
-<div align="center">
-💡 Tech Philosophy
+**Tech:** Python · NLP · Machine Learning · Web Development\
+🔗 [Live Demo](https://resume-ats-ruddy.vercel.app/)
 
-⚡ "Learn the fundamentals. Build real systems. Optimize continuously."
+### 🩺 [Student Mental Health Predictor](https://github.com/learndiscipline234-glitch/mental_health)
 
-</div> 
+Machine learning application that predicts a mental health score from
+student lifestyle and social-media-related factors, with a FastAPI
+backend and web interface.
+
+**Tech:** Python · Pandas · Scikit-learn · FastAPI
+
+### 🏡 [House Price Predictor](https://github.com/learndiscipline234-glitch/House-predictor)
+
+Machine learning project for predicting house prices from property
+features.
+
+### 🌾 [KisanSetu](https://github.com/learndiscipline234-glitch/kisansetu)
+
+Farmer-focused digital platform built as a web application.
+
+### 🌐 [Portfolio Website](https://github.com/learndiscipline234-glitch/portfolio-website)
+
+Personal portfolio website showcasing projects and developer skills.
+
+------------------------------------------------------------------------
+
+## 📈 GitHub Analytics
+
+::: {align="center"}
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=learndiscipline234-glitch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>`{=html}
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learndiscipline234-glitch&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>`{=html}
+
+`<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=learndiscipline234-glitch&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>`{=html}
+
+`<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=learndiscipline234-glitch&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>`{=html}
+:::
+
+## 🏆 Coding Journey
+
+-   💻 **300+ DSA problems solved**
+-   🧩 Regular practice on LeetCode and CodeChef
+-   🧠 Focused on graphs, dynamic programming, and problem solving
+-   🤖 Completed foundational Machine Learning and Deep Learning studies
+-   📚 Exploring NLP and Generative AI
+
+## 🤝 Connect With Me
+
+::: {align="center"}
+`<a href="https://github.com/learndiscipline234-glitch">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}
+`</a>`{=html}
+`<!-- Replace the placeholder below with your actual LinkedIn profile URL -->`{=html}
+`<a href="https://www.linkedin.com/">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}
+`</a>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+## 🐍 Contribution Snake
+
+::: {align="center"}
+```{=html}
+<!-- This animation requires a GitHub Actions workflow that generates the output SVG files. -->
+```
+`<picture>`{=html}
+`<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/learndiscipline234-glitch/learndiscipline234-glitch/output/github-contribution-grid-snake-dark.svg"/>`{=html}
+`<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/learndiscipline234-glitch/learndiscipline234-glitch/output/github-contribution-grid-snake.svg"/>`{=html}
+`<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/learndiscipline234-glitch/learndiscipline234-glitch/output/github-contribution-grid-snake.svg" width="100%"/>`{=html}
+`</picture>`{=html}
+:::
+
+::: {align="center"}
+### ✨ "Learn the fundamentals. Build real systems. Optimize continuously."
+
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="Decorative animated footer"/>`{=html}
+:::
